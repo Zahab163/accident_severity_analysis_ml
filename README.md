@@ -1,0 +1,2 @@
+# accident_severity_analysis_ml
+accident_severity_analysis_ml or road_safety_ml_Pipeline contains a complete Machine Learning pipeline on accident severity using Classification Models
