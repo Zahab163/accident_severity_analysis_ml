@@ -1,8 +1,8 @@
-# SMIT Project: Accident Severity Prediction with Machine Learning 🚦
+# Accident Severity Prediction with Machine Learning 🚦
 
 This project was developed as part of the **AI & Data Science program at SMIT**, Assigned of **Miss Aqsa Moiz**. It presents a complete machine learning pipeline to predict road accident severity using real-world traffic data.
 
-##[**Live Demo**](
+##[**Live Demo**](https://youtu.be/U_U7Y4ph0Zk)
 
 ## 🎯 Objectives
 
