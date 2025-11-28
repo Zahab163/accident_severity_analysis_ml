@@ -40,7 +40,8 @@ AI & Data Science Program
 ## 👩‍💻 Author
 
 **Zahabia Ahmed**  
-Data Science Learner | Educator | Content Creator | Aspiring AI Engineer 
+Data Science Learner | Educator | Content Creator | Aspiring AI Engineer
+
 [YouTube: Zahabia Ahmed](https://www.youtube.com/@ZahabiaAhmed)
 
 [Instagram](https://www.instagram.com/zahabiaahmed?igsh=MXkwNzkzdGJsMzJqOA==)
