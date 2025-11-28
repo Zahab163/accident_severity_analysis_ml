@@ -3,6 +3,7 @@
 This project was developed as part of the **AI & Data Science program at SMIT**, Assigned of **Miss Aqsa Moiz**. It presents a complete machine learning pipeline to predict road accident severity using real-world traffic data.
 
 ##AccidentSeverity_ML_Insights.ipynb" A complete process file [**Live Demo**](https://youtu.be/U_U7Y4ph0Zk)
+
 ##"Traffic_AccidentSeverity_ML_Insights.ipynb" A complete end to end detailed Colab file with story telling. [**Live Demo**](https://youtu.be/IvUDBZdZPqQ)
 
 
